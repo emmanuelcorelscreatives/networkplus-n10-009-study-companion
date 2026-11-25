@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "title": "Network+ N10-009 Study Companion",
+  "version": "1.0",
+  "preparedAt": "2026-11-25T07:14:02.370303+00:00",
+  "courseId": 7457613,
+  "examCode": "N10-009",
+  "objectiveDocumentVersion": "4.0",
+  "coursePlan": {
+    "forms": 6,
+    "questionsPerForm": 90,
+    "durationMinutes": 90
+  },
+  "availabilityNote": "Form 1 had 90 saved questions at preparation time; consult the curriculum for current availability. The six-form plan is not an assertion of six delivered forms.",
+  "exerciseCounts": {
+    "subnetting": 6,
+    "troubleshooting": 8,
+    "total": 14,
+    "workedSolutions": 14
+  },
+  "guideObjectivePrompts": 25,
+  "thirdPartyDocumentsBundled": false,
+  "questionBankBundled": false,
+  "formatBoundary": "Independent written decision practice, not interactive exam-task simulation or a claim of hands-on competence.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2537,
+      "sha256": "8eca93e9111ea9388d8338efa95ffb2917091cf0529b9af9a9d6d074a5722cc0"
+    },
+    {
+      "path": "STUDY-GUIDE.md",
+      "bytes": 8708,
+      "sha256": "45e7c5a6ac1eec2a4d45cd7311bfc8cec0df8956bc0ef5949b6a3d195e67418e"
+    },
+    {
+      "path": "OFFICIAL-READING.md",
+      "bytes": 6092,
+      "sha256": "a499e15afb65955dc70675b6ef45680079849698d440f0d8ed155459f22f7c45"
+    },
+    {
+      "path": "EXERCISES.md",
+      "bytes": 8642,
+      "sha256": "0bfb8360b1fd6d4462e93647a47b1fab97c0db20f483787fcd487cf0361ae9fb"
+    },
+    {
+      "path": "ANSWER-GUIDE.md",
+      "bytes": 10357,
+      "sha256": "0a0950668f541a6cb1dbe8323bec343c277e6241484fecdb27cfb1bb981b1f84"
+    },
+    {
+      "path": "review-journal.csv",
+      "bytes": 270,
+      "sha256": "0f903df62245e147e8102be64172eaad65889b39264aa8aad52f09bce8cd08e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9973,
+      "sha256": "e0cfc18be7ae3f5a3d8a86ec54a9157e2d3075101efee024b6a12e5deac0b9c6"
+    }
+  ]
+}
